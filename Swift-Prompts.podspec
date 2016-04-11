@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 	s.name					= 'Swift-Prompts'
-	s.version				= ‘1.0.2’
+	s.version				= '1.0.3'
 	s.summary				= 'A Swift library to design custom prompts with a great scope of options to choose from.'
 	s.homepage				= 'https://github.com/GabrielAlva/Swift-Prompts'
 	s.license				= { :type => 'MIT', :file => 'LICENSE.md' }
