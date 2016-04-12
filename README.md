@@ -1,6 +1,6 @@
 ![License](https://img.shields.io/badge/Language-Swift-brightgreen.svg?style=flat)
-[![Pod Version](http://img.shields.io/cocoapods/v/Swift-Prompts.svg?style=flat)](http://cocoadocs.org/docsets/Swift-Prompts/)
-[![Pod Platform](http://img.shields.io/cocoapods/p/Swift-Prompts.svg?style=flat)](http://cocoadocs.org/docsets/Swift-Prompts/)
+[![Pod Version](http://img.shields.io/cocoapods/v/Swift-Prompts.svg?style=flat)](http://cocoadocs.org/docsets/SwiftPrompts/)
+[![Pod Platform](http://img.shields.io/cocoapods/p/Swift-Prompts.svg?style=flat)](http://cocoadocs.org/docsets/SwiftPrompts/)
 [![Pod License](http://img.shields.io/cocoapods/l/Swift-Prompts.svg?style=flat)](http://opensource.org/licenses/MIT)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
@@ -10,7 +10,7 @@
 
 ## Installation
 ### CocoaPods
-
+Forked from https://github.com/GabrielAlva/Swift-Prompts,the pod 'Swift-Prompts', '~> 1.0.0' can not use on Xcode 7.3,so I create a new pod  'Swift-Prompts'.
 Install with [CocoaPods](http://cocoapods.org) by adding the following to your Podfile:
 
 ``` ruby
@@ -19,7 +19,7 @@ platform :ios, '8.0'
 
 use_frameworks!
 
-pod 'Swift-Prompts', '~> 1.0.0'
+pod 'SwiftPrompts', '~> 1.0.6'
 ```
 
 **Note**: We follow http://semver.org for versioning the public API.
